@@ -1,0 +1,96 @@
+Arabic Translations:
+اختبار
+
+Arabic Examples:
+Explanatory RCTs test efficacy in a research setting with highly selected participants and under highly controlled conditions.
+اختبار كفاءة ال RCTs التفسيرية في إعداد البحوث مع المشاركين المختارين بدقة وتحت ظروف محكومة إلى حد كبير.
+
+
+German Translations:
+Test
+
+German Examples:
+For more information about this test, see Quantified comparison test.
+Weitere Hinweise zu diesem Test finden Sie unter Quantified comparison test.
+
+
+Spanish Translations:
+prueba
+
+Spanish Examples:
+Quick-connect hydraulic test ports simplify system diagnostics.
+Los orificios para prueba hidráulica de conexión rápida simplifican el diagnóstico del sistema.
+
+
+French Translations:
+test
+
+French Examples:
+A mobile device in wireless communication with a test server initially receives from the test server a driving test, which includes a test route and test events along the test route.
+L'invention concerne un dispositif mobile, en communication sans fil avec un serveur de test, qui reçoit initialement du serveur de test un test de conduite qui comprend un parcours de test et des événements de test situés le long du parcours de test.
+
+
+Hebrew Translations:
+מבחן
+
+Hebrew Examples:
+T-minus 300 minutes to Unit 03 activation test.
+מבחן ההפעלה של יחידה 03: עוד שלושים דקות.
+
+
+Japanese Translations:
+テスト
+
+Japanese Examples:
+To test the SynchronousSampleApplication composite application:
+SynchronousSampleApplication 複合アプリケーションをテストするには、次の手順に従います。
+
+
+Dutch Translations:
+test
+
+Dutch Examples:
+Simulated transport drop test, vibration test, soak test.
+Gesimuleerde vervoer drop test, trillingen test, soak test.
+
+
+Polish Translations:
+test
+
+Polish Examples:
+Shockproof test, waterproof test, Gray level test.
+Odporny na wstrząsy test, test wodoodporności, test poziomu szarości.
+
+
+Portuguese Translations:
+teste
+
+Portuguese Examples:
+One-step installation, mattress rollator test.
+A instalação de uma etapa, teste do rollator do colchão.
+
+
+Romanian Translations:
+test
+
+Romanian Examples:
+Side test, flare test, flattening test, etc.
+Test lateral, test de flacără, test de aplatizare etc.
+
+
+Russian Translations:
+испытание
+
+Russian Examples:
+The withstand voltage test is divided into DC withstand voltage test and AC withstand voltage test.
+Испытание на выдерживаемое напряжение делится на испытание на выдерживаемое напряжение постоянного тока и испытание на выдерживаемое напряжение переменного тока.
+
+
+Turkish Translations:
+test
+
+Turkish Examples:
+I was running a test to perform an unscheduled test.
+Planlanmamış bir test uygulamayı test ediyorum.
+
+
